@@ -10,7 +10,6 @@ I build scalable, secure, and resilient cloud-native architectures on **AWS**, s
 
 - 🔭 **Currently Working On:** Building enterprise-grade cloud systems, infrastructure automation, and real-time distributed platforms.
 - ☁️ **Cloud Focus:** AWS Infrastructure (EC2, S3, API Gateway, SNS, IAM, Lambda, VPC), Infrastructure as Code, and Containerization.
-- 💻 **Tech Stack:** Node.js, Express.js, Python, MongoDB, Socket.io, Docker, Linux, and Git/GitHub Workflows.
 - 🎯 **Goals:** Architecting high-availability cloud solutions and mastering Advanced AWS DevOps Engineering.
 - 📫 **How to reach me:** Connect with me on [GitHub](https://github.com/aurox01)!
 
@@ -20,30 +19,14 @@ I build scalable, secure, and resilient cloud-native architectures on **AWS**, s
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 💻 Backend & Real-Time Web
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ### 🍃 Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ## 📌 Featured Cloud Projects
 
