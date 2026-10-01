@@ -25,7 +25,6 @@ I build scalable, secure, and resilient cloud-native architectures on **AWS**, s
 ### 🍃 Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## 📌 Featured Cloud Projects
@@ -64,13 +63,6 @@ flowchart LR
 ---
 
 ## 📈 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurox01&show_icons=true&theme=radial&hide_border=true" alt="Aurox's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurox01&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurox01&theme=radial&hide_border=true" alt="GitHub Streak" />
