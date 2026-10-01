@@ -1,6 +1,6 @@
-# Hi there, I'm Aurox 👋 ☁️
+# Hi there, I'm Aurosish 👋 ☁️
 
-### 🚀 Cloud & DevOps Engineer | AWS Solutions Architect | Full-Stack Developer
+### 🚀 Cloud Engineer | AWS Solutions Architect | Full-Stack Developer
 
 I build scalable, secure, and resilient cloud-native architectures on **AWS**, specializing in serverless and microservice systems, real-time enterprise platforms, and automated CI/CD pipelines.
 
@@ -47,11 +47,11 @@ I build scalable, secure, and resilient cloud-native architectures on **AWS**, s
 
 ## 📌 Featured Cloud Projects
 
-### 📢 [Enterprise Smart Notice Board System (AWS)](https://github.com/aurox01/enterprise-notice-board)
+### 📢 [Smart Notice Board System (AWS)](https://github.com/aurox01/Cloud-Based-Smart-Notice-Board)
 > A cloud-native, real-time digital notice board system deployed on AWS infrastructure.
 * **Architecture:** Amazon API Gateway ➔ Amazon EC2 (Node.js/Express) ➔ MongoDB (Metadata) & Amazon S3 (Files) & Amazon SNS (Notifications).
 * **Key Features:** Real-time push delivery with Socket.io, multi-channel user notifications, secure IAM least-privilege policies, and automated display board synchronization.
-* 🔗 **Repository:** [`aurox01/enterprise-notice-board`](https://github.com/aurox01/enterprise-notice-board)
+* 🔗 **Repository:** [`aurox01/Cloud-Based-Smart-Notice-Board`](https://github.com/aurox01/Cloud-Based-Smart-Notice-Board)
 
 ---
 
@@ -98,8 +98,9 @@ flowchart LR
 ## 📫 Let's Connect!
 
 - 🐙 **GitHub:** [@aurox01](https://github.com/aurox01)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/aurox01)
-- 📧 **Email:** Reach out via GitHub Profile
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/aurosish-swain)
+- 📧 **Email:** swainaurosish@gmail.com
+
 
 ---
 <div align="center">
