@@ -1,6 +1,6 @@
 # Hi there, I'm Aurosish 👋 ☁️
 
-### 🚀 Cloud Engineer | AWS Solutions Architect | Full-Stack Developer
+### 🚀 Cloud Engineer | AWS Solutions Architect | 
 
 I build scalable, secure, and resilient cloud-native architectures on **AWS**, specializing in serverless and microservice systems, real-time enterprise platforms, and automated CI/CD pipelines.
 
@@ -73,7 +73,7 @@ flowchart LR
 ## 📫 Let's Connect!
 
 - 🐙 **GitHub:** [@aurox01](https://github.com/aurox01)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/aurosish-swain)
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/aurosish-swain-4212a8273/)
 - 📧 **Email:** swainaurosish@gmail.com
 
 
